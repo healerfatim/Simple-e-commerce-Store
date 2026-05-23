@@ -1,15 +1,15 @@
 
 
 ```markdown
-# CodeAlpha_SimpleStore
+# SimpleStore
 
-![CodeAlpha Task 1](https://img.shields.io/badge/CodeAlpha-Task_1-blue.svg)
+![ Task 1](https://img.shields.io/badge/CodeAlpha-Task_1-blue.svg)
 
-Task 1 - E-commerce store (name: simplestore) for @CodeAlpha.
+Task 1 - E-commerce store (name: simplestore) for 
 
 ## File/Folder Structure
 ```text
-CodeAlpha_SimpleStore/
+SimpleStore/
 │
 ├── my_store/            # Django project configuration folder
 │   ├── __init__.py      # Marks directory as a Python package
