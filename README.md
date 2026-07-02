@@ -48,8 +48,8 @@ SimpleStore/
 ### 1. Clone the repository
 Open your terminal and run:
 ```bash
-git clone https://github.com/healerfatim/CodeAlpha_SimpleStore.git
-cd CodeAlpha_SimpleStore
+git clone https://github.com/healerfatim/SimpleStore.git
+cd SimpleStore
 ```
 
 ### 2. Set up a Virtual Environment (Optional but recommended)
